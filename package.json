@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/JulietaLC123/APIZOOLOGICO/issues"
   },
-  "homepage": "https://github.com/JulietaLC123/APIZOOLOGICO#readme"
+  "homepage": "https://github.com/JulietaLC123/APIZOOLOGICO#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
