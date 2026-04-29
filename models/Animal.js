@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 // Esquema del Animal
 const animalSchema = new mongoose.Schema({
-  nombre: {
+  nombreAnimal: {
     type: String,
     required: true
   },
